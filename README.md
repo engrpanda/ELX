@@ -9,7 +9,7 @@ just a compilation of all the Kits, Board and Shield, Sensor and Module, Display
 # BUGS, Will update in the next release
 * The Tab in mobile phone below is too small(change to Landscape). ~ Will make it bigger.
 * The Size is 200mb+ because of high resolution pictures. ~ will compress the picture.
-* A Little bit laggy., maybe because i use HTM, will fine ways to convert it to Html or maybe HTML5, i dunno. xD
+* A Little bit laggy., maybe because i use HTM i dunno, will find ways to convert it to Html or maybe HTML5, i dunno. xD
 * Category is a bit confusing. ~ Will add category for each(Ugh more work.xD)
 
 # APP link
